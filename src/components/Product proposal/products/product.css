@@ -1,0 +1,25 @@
+.text-primary {
+    color: #FCB941;
+}
+
+#category {
+    font-size: 12px;
+}
+
+#product {
+    font-size: 16px;
+}
+
+#starts {
+    font-size: 11px;
+}
+
+#product-img {
+    width: auto;
+    height: 180px;
+}
+
+#product-card {
+    width: auto;
+    height: 350px;
+}

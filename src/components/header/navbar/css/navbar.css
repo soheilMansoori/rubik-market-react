@@ -1,0 +1,43 @@
+#nav-css {
+background-color: white;
+width: 100%;
+}
+
+#btn-pasket {
+    background-color : #FCB941;
+    color: white;
+    padding: 8px 30px;
+}
+
+
+#input-search:focus {
+
+    border: none;
+    outline: none;
+}
+
+
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+  
+.icon {
+    padding: 10px;
+    color: gray;
+    min-width: 50px;
+    text-align: center;
+}
+  
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(225, 225, 225);
+    height: 40px;
+}

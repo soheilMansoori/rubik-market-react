@@ -1,0 +1,27 @@
+@media screen and (max-width:766px) {
+    #wraper {
+        position: fixed;
+        top: 0px;
+        width: 100%;
+        background: rgba(0, 0, 0, .5);
+        height: 100vh;
+    }
+    
+    #width-menu {
+    width: 70%;
+    height: 100vh;
+    background-color: white;
+    }
+    
+    #active {
+        color: white;
+        background: #fcb941;
+    }
+    
+    
+}
+
+.item:hover {
+    color: white;
+    background-color: #fcb941;
+}

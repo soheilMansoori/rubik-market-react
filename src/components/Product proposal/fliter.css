@@ -1,0 +1,19 @@
+.fliter-item-active {
+       
+    text-decoration: bold;
+    border-bottom: 2px solid black;
+}
+@media screen and (max-width:500px) {
+
+    .fliter-item {
+        font-size: 12px;
+        padding: 8px;
+       }
+       
+       .fliter-item-active {
+       
+           text-decoration: bold;
+           border-bottom: 1px solid black;
+       }
+}
+    
